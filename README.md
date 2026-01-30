@@ -1,8 +1,19 @@
 # Moltbot Security Guide
 
-Security hardening for Moltbot/Clawdbot. Lock down your gateway, fix file permissions, set up authentication, configure firewalls.
+**🔒 Lock Down Your AI Agent** — Security hardening for Moltbot/Clawdbot. Don't be one of the 1,673+ exposed gateways.
 
-**Based on real vulnerability research** that found 1,673+ exposed Clawdbot/Moltbot gateways on Shodan.
+[![npm version](https://img.shields.io/npm/v/moltbot-security.svg?style=flat-square)](https://www.npmjs.com/package/moltbot-security)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+---
+
+<p align="center">
+  <strong>⚠️ Based on real vulnerability research that found 1,673+ exposed gateways on Shodan</strong>
+</p>
+
+---
+
+Security hardening for Moltbot/Clawdbot. Lock down your gateway, fix file permissions, set up authentication, configure firewalls.
 
 ## Install
 
